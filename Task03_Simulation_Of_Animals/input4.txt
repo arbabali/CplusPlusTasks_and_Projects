@@ -1,0 +1,5 @@
+1 3
+lem1 l 88
+hungry w 20
+goo f 12
+hungry w 12

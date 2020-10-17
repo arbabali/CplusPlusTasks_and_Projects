@@ -1,0 +1,7 @@
+2 4 
+lem2 l 50
+hare1 h 30
+hungry w 20
+goo f 12
+goo f2 10
+hungry w 12

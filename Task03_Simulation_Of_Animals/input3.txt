@@ -1,0 +1,4 @@
+0 3
+hungry w 20
+goo f 12
+hungry w 12

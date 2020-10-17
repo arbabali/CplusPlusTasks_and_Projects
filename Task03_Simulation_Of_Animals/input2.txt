@@ -1,0 +1,7 @@
+3 3
+lem1 l 4
+lem2 l 5
+hare1 h 2
+goo f 12
+hungry w 12
+feathery o 66
